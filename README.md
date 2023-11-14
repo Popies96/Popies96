@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=outfit&weight=500&size=30&pause=1000&color=D42EFF&background=2E20FF00&random=false&width=435&lines=Hello+there!+Im+Aziz+Belfaidi" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=outfit&weight=500&size=30&pause=1000&color=D42EFF&background=2E20FF00&random=false&width=435&lines=Hello+there!+👋+Im+Aziz+Belfaidi" alt="Typing SVG" /></a></h1>
 <h3 align="center">Architecting Tomorrow's Solutions: Crafting the Future through Code</h3> <br>
 
 <img align="right" alt="pic" width="400" src="https://i.pinimg.com/originals/2e/73/f5/2e73f54bfd969a264820b1b9f5253db8.gif"/>
